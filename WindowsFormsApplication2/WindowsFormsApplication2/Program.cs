@@ -10,7 +10,8 @@ namespace WindowsFormsApplication2 {
         /// </summary>
         [STAThread]
         static void Main() {
-           int i = 4;
+
+           int i = 1;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
