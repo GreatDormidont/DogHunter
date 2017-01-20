@@ -8,6 +8,6 @@
             <BarButtonItem Content="barButtonItem2" Name="barButtonItem1" />
             <BarButtonItem Content="barButtonItem3" Name="barButtonItem1" Glyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Actions/Add_32x32.png" />
       </BarManager.Items>
--->
+                -->
     </Grid>
 </Window>
