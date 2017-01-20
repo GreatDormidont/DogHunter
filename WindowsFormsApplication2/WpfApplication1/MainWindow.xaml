@@ -4,10 +4,10 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <BarManager.Items>
-            <BarButtonItem Content="barButtonItem1" Name="barButtonItem1" Glyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Actions/Add_16x16.png" />
+ <!--           <BarButtonItem Content="barButtonItem1" Name="barButtonItem1" Glyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Actions/Add_16x16.png" />
             <BarButtonItem Content="barButtonItem2" Name="barButtonItem1" />
             <BarButtonItem Content="barButtonItem3" Name="barButtonItem1" Glyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Actions/Add_32x32.png" />
-        </BarManager.Items>
+     -->   </BarManager.Items>
 
     </Grid>
 </Window>
