@@ -10,6 +10,6 @@ namespace WpfApplication1 {
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application {
-    котик пидор
+    
     }
 }
