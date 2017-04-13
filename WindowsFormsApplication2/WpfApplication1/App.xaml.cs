@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace WpfApplication1 {
+namespace WpfApplication1 {ебучий мастер
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
